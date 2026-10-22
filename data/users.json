@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Aashna Sharma",
+    "email": "aashna@gmail.com",
+    "passwordHash": "92a0338b867e736690bcb458593723b2fb5668ec2e154f2084f4d9e3dd6fc5a9896b22bcb23a90eaec7c37fc1b42f54d6b4f5ed05e3f4ce2efd8b96d598b3de9",
+    "passwordSalt": "660a86b29b3a2f82c4a7dfc215c733ce",
+    "sessions": [],
+    "_id": "39e6474d3039c57f6a13c6e4"
+  },
+  {
+    "name": "sachin Kumar",
+    "email": "sachin@gmail.com",
+    "passwordHash": "4e9ce0d873e8ccdf0888e7bf40bcc73a46beea20f14c12c95cb859967703c3b566ab5f86ba00938f94da4529c221a3a999d9406551362120478b0730160a5357",
+    "passwordSalt": "d0acd656ff89acfc2d43a79b326df18d",
+    "sessions": [
+      {
+        "tokenHash": "57b99430e860dc9b6210069ec3fdd92790796c607c5a4156be4d8504fcd2d559",
+        "expiresAt": "2026-10-29T12:24:39.646Z"
+      }
+    ],
+    "_id": "52449639f423ca23e0a88494"
+  },
+  {
+    "name": "Rohit Kumar",
+    "email": "rohitbablu18082003@gmail.com",
+    "passwordHash": "d5d28b590cdd243fd48f17a6854c192c53d2edd73a2490da5d8b18862816f3a0c1d4fc95eec42e2f5194f1ea1246c79226caea4b356a302e2e2266b06fcb0429",
+    "passwordSalt": "e3923c9f22c83acdc584b23c596ae1d7",
+    "sessions": [],
+    "_id": "c4b13f752355b992bb35dd9c",
+    "resetTokenHash": "5ba3ed4ec61ce1fc32ed48105d81dc06d807a0135c46f87752ca02b6e21d774c",
+    "resetExpiresAt": "2026-10-21T19:43:26.736Z"
+  },
+  {
+    "name": "Aashna Sharma",
+    "email": "rohitssm312@gmail.com",
+    "passwordHash": "74dbcac4e99bc391e41c4557b4d11188b0d9e71802ba49b68c457b19c13caebf11d0fafde46d855bf330861432c2af7356eba99b048939bbaab90222d24b317c",
+    "passwordSalt": "bb98eb0dbc66da4b7581c3b2b82dd270",
+    "sessions": [],
+    "_id": "ee2f84030eebc952e7b34011",
+    "resetTokenHash": "a85b4995a5d2351ff83b92c7a306056b6c91ac9dece98185cdacf93e7cd6c823",
+    "resetExpiresAt": "2026-10-21T20:53:08.071Z"
+  }
+]
